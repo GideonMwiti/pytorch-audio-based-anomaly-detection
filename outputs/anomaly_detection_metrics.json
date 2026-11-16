@@ -1,0 +1,22 @@
+{
+  "roc_auc": 0.9997,
+  "pr_auc": 0.9997,
+  "optimal_threshold": 1.945,
+  "accuracy": 0.9958,
+  "balanced_accuracy": 0.9958,
+  "precision": 0.9917,
+  "recall": 1.0,
+  "specificity": 0.9917,
+  "f1_score": 0.9959,
+  "per_anomaly_recall": {
+    "arrhythmia_extrasystole": 1.0,
+    "bearing_chatter": 1.0,
+    "cavitation_burst": 1.0,
+    "friction_screech": 1.0,
+    "heart_murmur": 1.0,
+    "motor_unbalance": 1.0
+  },
+  "mean_latency_ms": 1.2,
+  "real_time_factor_rtf": 0.00059,
+  "real_time_speedup_factor": 1708.5
+}
